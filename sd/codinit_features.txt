@@ -1,0 +1,16 @@
+app features :-
+
+1.login/sighup and authentication with (git hub, google) only
+2.feds about different projects
+3.create new project (new project consist of (description of project,image ,video,language used for development,required member numbers,required member skills )) creator of the project automatically becomes the leader
+4.invite member (from Friends) by the leader only 
+5.request to join to the project leader (member fulfilling the required skills can request to the project leader to join)
+6.notification (accepted to join the project / request for accept to join project )
+7.delete project (delete all record )
+8.chart features (text only)
+9.code file sharing (code file and code text)
+10.profile (name,add different platform profile link,skills,profile picture)
+11.dark mode /light mode
+12.logout
+13.search functionality to search for projects and users
+14.feature to showcase completed projects as a portfolio (hosting link)

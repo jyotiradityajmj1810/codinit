@@ -1,0 +1,10 @@
+Technologies to Use :-
+
+Frontend: Flutter 
+Backend: Node.js with Express.js
+Authentication: Firebase Authentication or OAuth with GitHub and Google
+Database: Firebase FireStore
+Notifications: Firebase Cloud Messaging
+File Storage: Firebase Storage
+Chat: Firebase Realtime Database or FireStore
+Hosting: AWS
