@@ -32,6 +32,8 @@ Features:
   Search: Search functionality to find projects and users
   
   Portfolio: Feature to showcase completed projects with hosting links
+
+  
   
 Technologies Used:
   
