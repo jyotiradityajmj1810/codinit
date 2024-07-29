@@ -4,6 +4,7 @@ The app offers features such as project creation, member invitations, chat, and 
 
 Features:
   Authentication: Login and signup with GitHub and Google
+  
   Project Feeds: Browse through various projects
   Project Creation: Create new projects with detailed descriptions, images, videos, and required skills
   Member Invitations: Project leaders can invite friends to join their projects
