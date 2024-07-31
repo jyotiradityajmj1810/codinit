@@ -1,11 +1,12 @@
 # codinit
+
 Codinit is a cross-platform app built with Flutter that enables coders to collaborate on projects seamlessly. 
 
 The app offers features such as project creation, member invitations, chat, and code sharing, providing a comprehensive platform for developer collaboration.
 
 Features:
   
-  Authentication: Login and signup with GitHub and Google
+  Authentication: Login and sighup with GitHub and Google
   
   Project Feeds: Browse through various projects
   
