@@ -1,0 +1,29 @@
+1. (User Authentication Flow)
+User -> (Login/Sign up) -> Authentication Service -> (OAuth with GitHub/Google) -> User Management Service -> (Create/Update User Profile) -> User Dashboard
+
+2. (Project Creation Flow)
+User -> (Create Project) -> Project Management Service -> (Save Project Details) -> Project Dashboard
+
+3. (Invite Member Flow)
+Project Leader -> (Invite Member) -> User Management Service -> (Send Notification) -> Notification Service -> (Notify User)
+
+4. (Request to Join Project Flow)
+User -> (Request to Join) -> Project Management Service -> (Check Skills) -> (Send Request) -> Notification Service -> (Notify Project Leader)
+
+5. (Notification Flow)
+Notification Service -> (Generate Notification) -> User -> (View Notification) -> (Accept/Reject) -> Update Project Management Service
+
+6. (Messaging and File Sharing Flow)
+User -> (Send Message/File) -> Messaging Service -> (Store Message/File) -> (Notify Project Members)
+
+7. (Search Functionality Flow)
+User -> (Search Query) -> Search Service -> (Fetch Results) -> Display Results
+
+8. (Profile Management Flow)
+User -> (Update Profile) -> User Management Service -> (Save Profile Details)
+
+9. (Dark Mode/Light Mode Flow)
+User -> (Toggle Mode) -> UI/UX Service -> (Update UI)
+
+10. (Logout Flow)
+User -> (Logout) -> Authentication Service -> (End Session)
